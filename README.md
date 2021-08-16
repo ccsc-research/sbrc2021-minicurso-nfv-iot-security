@@ -2,12 +2,12 @@
 # Capítulo 4
 
 ## Contents
-+ [Introduction](#introduction)
-+ [Code Changes](#req)
-+ [Install on Ubuntu 16.04](#install)
++ [Introdução](#introduction)
++ [Pré Requisitos](#req)
++ [Devices](#Devices)
 
 <a name="introduction"></a>
-## Introduction
+## Introdução
 Esta demonstração compreende empegar as ferramentas Kubernetes, KinD, Knetlab, entre outras, para avaliar uma proposta genérica de detecção de botnets em um cenário com topologias virtuais e de fácil customização. 
 Recomendamos que executem em uma maquina virtual.
 
