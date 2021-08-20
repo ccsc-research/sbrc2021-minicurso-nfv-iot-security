@@ -5,6 +5,7 @@
 + [Introdução](#introduction)
 + [Pré Requisitos](#req)
 + [Devices](#Devices)
++ [Inicialização](#iniciar)
 
 <a name="introduction"></a>
 ## Introdução
