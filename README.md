@@ -24,7 +24,7 @@ Recomendamos que executem em uma maquina virtual com um sistema operacional base
 <a name="Devices"></a>
 # Devices
 
-> Cada device na pasta devices é um pod kubernetes executando um conjunto de aplicações containerizadas com docker
+> Cada arquivo yaml na pasta devices é um pod kubernetes executando um conjunto de aplicações containerizadas com docker
 
 > Os contêineres são disponibilizados através de um registro de contêineres instalados localmente  
  
